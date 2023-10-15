@@ -1,0 +1,14 @@
+koffie
+melk
+ontbijt
+middageeten
+diner
+avondeten
+brood
+kaas
+kip
+eieren
+vis
+voedsel
+fruit
+vlees
