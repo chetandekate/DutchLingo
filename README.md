@@ -1,6 +1,7 @@
-# Dutch Practice App
+# Dutch Practice App: Master Dutch Vocabulary with Ease
 
-A GUI application that assists users in practicing Dutch vocabulary. The application allows users to upload a list of Dutch words, listen to their pronunciations, and then provide the English translation. Feedback is provided based on the accuracy of the provided translation.
+#LearnDutch #VocabularyApp #LanguageLearning #DutchPractice
+Dutch Practice App is a user-friendly GUI application designed to revolutionize your Dutch vocabulary learning experience. This innovative tool is perfect for language enthusiasts and students eager to master Dutch. The app's intuitive design lets you upload Dutch words, hear their pronunciations, and test your skills by translating them into English. Get immediate feedback on your translations and track your learning journey!
 
 ## Table of Contents
 
@@ -13,12 +14,11 @@ A GUI application that assists users in practicing Dutch vocabulary. The applica
 
 ## Features
 
-- **Upload & Translate**: Users can easily upload a list of Dutch words and receive translations using Google's Text-to-Speech API.
-- **Audio Playback**: For every uploaded Dutch word, users can listen to its pronunciation.
-- **Interactive UI**: With enhanced graphical buttons, tooltips, and a progress bar, users get an interactive experience.
-- **Feedback Mechanism**: After submitting a translation, users receive feedback on its correctness.
-- **Progress Tracking**: A progress bar allows users to track their learning progress.
-
+- **Upload & Translate**: Seamlessly upload Dutch words and get English translations. Powered by Google's Text-to-Speech API. #TextToSpeech #GoogleAPI
+- **Audio Playback**: Hear accurate pronunciations of each Dutch word. #Pronunciation #AudioLearning
+- **Interactive UI**: Engage with an intuitive interface featuring graphical buttons, tooltips, and progress tracking. #UserExperience #InteractiveLearning
+- **Feedback Mechanism**: Receive instant feedback on your translation accuracy. #LearningFeedback
+- **Progress Tracking**: Visualize your learning progress with an integrated progress bar. #LearningJourney
 ## Setup and Installation
 
 1. **Clone the Repository**: 
